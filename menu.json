@@ -1,0 +1,116 @@
+[
+ {
+        "id": "A",
+        "html": "<img src='https://img.icons8.com/nolan/16/d-key.png'>",
+		"disabled" : "true"
+    },
+  {
+    "id": "edit",
+    "value": "MENU",
+    "hotKey": "ctrl-z",
+    "count": 25,
+    "countColor": "success",
+    "items": [
+      {
+        "id": "new",
+        "value": "Nový",
+        "icon": "dxi dxi-checkbox-blank-outline",
+        "hotKey": "Ctrl-N"
+     
+        
+      },
+      {
+        "id": "opener",
+        "value": "Otevřít",
+        "icon": "dxi dxi-folder-open"
+      }
+     ,
+      {
+        "id": "downloadButton",
+        "value": "Stáhnout",
+        "icon": "dxi dxi-download"
+      } 
+    ]
+  },
+  
+  
+  
+  
+  
+  {
+    "id": "edit2",
+    "value": "EDIT",
+    "hotKey": "",
+    "count": 25,
+    "items": [
+      {
+        "id": "selectALL",
+        "value": "Select All",
+        "icon": "dxi dxi-select-all",
+        "hotKey": "Ctrl-A"
+     
+        
+      }, {
+        "id": "undo2",
+        "value": "Undo",
+        "icon": "dxi dxi-undo"
+      } , {
+        "id": "redo2",
+        "value": "Redo",
+        "icon": "dxi dxi-redo"
+      } 
+	  , {
+        "id": "ascii",
+        "value": "ASCII",
+        "icon": "dxi dxi-table-column"
+      } 
+	  
+    
+    ]
+  }
+  
+  ,
+  
+  
+  {
+    "type": "separator"
+  },
+ 
+  {
+    "type": "spacer"
+  },
+  {
+        "id": "language",
+        "value": "Language",
+        "items": [
+            {
+                "id": "eng",
+                "value": "English"
+            },
+            {
+                "id": "spa",
+                "value": "Spanish"
+            },
+            {
+                "id": "rus",
+                "value": "Russian"
+            },
+            {
+                "id": "de",
+                "value": "Deutsch"
+            }
+        ]
+    },
+	
+	
+  {
+    "value": "Help",
+    "items": [
+      {
+        "id": "about",
+        "value": "About editor",
+        "icon": "mdi mdi-information-variant"
+      }
+    ]
+  }
+]

@@ -1,0 +1,249 @@
+[
+ 
+    {
+        "id": "skin",
+        "value": "Theme",
+        "items": [
+        
+            {
+                "id": "3024-day",
+                "value": "3024-day"
+            },
+            {
+                "id": "3024-night",
+                "value": "3024-night"
+            },
+            {
+                "id": "abbott",
+                "value": "Abbott"
+            },
+            {
+                "id": "abcdef",
+                "value": "Abcdef"
+            },
+            {
+                "id": "ambiance",
+                "value": "Ambiance"
+            },
+			    {
+                "id": "ayu-dark",
+                "value": "Ayu-dark"
+            },
+            {
+                "id": "ayu-mirage",
+                "value": "Ayu-mirage"
+            },
+            {
+                "id": "base16-dark",
+                "value": "Base16-dark"
+            },
+            {
+                "id": "bespin",
+                "value": "Bespin"
+            },
+            {
+                "id": "base16-light",
+                "value": "Base16-light"
+            },
+			{
+                "id": "blackboard",
+                "value": "Blackboard"
+            },	
+			
+			{
+                "id": "cobalt",
+                "value": "Cobalt"
+            },
+			
+			{
+                "id": "colorforth",
+                "value": "Colorforth"
+            },
+			{
+                "id": "dracula",
+                "value": "Dracula"
+            },
+			{
+                "id": "duotone-light",
+                "value": "Duotone-light"
+            },
+			{
+                "id": "eclipse",
+                "value": "Eclipse"
+            },
+			{
+                "id": "elegant",
+                "value": "Elegant"
+            },
+			{
+                "id": "erlang-dark",
+                "value": "Erlang-dark"
+            },
+			{
+                "id": "gruvbox-dark",
+                "value": "Gruvbox-dark"
+            }
+			
+
+
+
+
+        ]
+		
+		
+    },
+    {
+        "type": "separator"
+    },
+      {
+        "id": "syntax",
+        "value": "Syntax",
+        "items": [
+		
+		
+            {
+                "id": "html",
+                "value": "HTML mixed"
+            },
+        
+            {
+                "id": "alp",
+                "value": "ALP"
+            },
+			
+			  {
+                "id": "brainfuck",
+                "value": "Brainfuck"
+            },
+			
+			
+			
+			  {
+                "id": "clike",
+                "value": "CLike"
+
+
+		 },
+		   {
+                "id": "coffeescript",
+                "value": "Coffeescript"
+
+		 },
+
+		   {
+                "id": "css",
+                "value": "CSS"
+
+		 },
+		 
+		   {
+                "id": "dart",
+                "value": "DART"
+
+		 },
+		    {
+                "id": "diff",
+                "value": "DIFF"
+
+		 },
+		 
+		  {
+                "id": "django",
+                "value": "Django"
+
+		 },
+		 
+		  {
+                "id": "fortran",
+                "value": "Fortran"
+
+		 },
+		   {
+                "id": "go",
+                "value": "GO"
+
+		 },
+		 
+		 {
+                "id": "javascript",
+                "value": "Javascript"
+
+		 },
+		 	 {
+                "id": "lua",
+                "value": "Lua"
+
+		 },
+		 
+		  	 {
+                "id": "pascal",
+                "value": "Pascal"
+
+		 },
+		 
+		 		  	 {
+                "id": "perl",
+                "value": "Perl"
+
+		 },
+		 		  	 {
+                "id": "php",
+                "value": "PHP"
+
+		 },
+		 	  	 {
+                "id": "python",
+                "value": "Python"
+
+		 },
+		 
+		 	  	 {
+                "id": "r",
+                "value": "R"
+				
+				 },
+				 {
+                "id": "ruby",
+                "value": "Ruby"
+				
+				 }, 
+				 {
+                "id": "rust",
+                "value": "RUST"
+				
+				 },  
+				  {
+                "id": "swift",
+                "value": "Swift"
+				
+				 },  
+	  {
+                "id": "vbscript",
+                "value": "VBScript"
+				
+				 }, 
+				  {
+                "id": "xml",
+                "value": "XML"
+				
+				 }, 
+				   {
+                "id": "yaml",
+                "value": "YAML"
+				
+				 }
+				 
+       ]	} ,
+   
+   {
+        "id": "undo",
+        "value": "Undo",
+        "icon": "dxi dxi-undo"
+      } , {
+        "id": "redo",
+        "value": "Redo",
+        "icon": "dxi dxi-redo"
+      } 
+   
+   
+]
